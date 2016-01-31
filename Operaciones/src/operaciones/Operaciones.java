@@ -15,7 +15,8 @@ public class Operaciones {
      * @param args the command line arguments
      */
     public static void main(String[] args) {
-        System.out.println("Hola Mundo");
+        int a = 5, b = 10, c = a + b;
+        System.out.println(a + " + " + b + " = " + c);
     }
-    
+
 }
